@@ -1,4 +1,4 @@
-# Sahay AI - AI-Powered Career Mentor
+# career_guidance - AI-Powered Career Mentor
 
 
 ## 🎯 **Problem Statement**
@@ -8,7 +8,7 @@ Many students and professionals struggle with:
 - **Skill Development**: Knowing what to learn next
 - **Job Search**: Getting personalized career advice
 
-## 🚀 **Solution: Sahay AI**
+## 🚀 **Solution: career_guidance**
 An intelligent AI-powered career mentor that:
 - **Analyzes resumes** using advanced PDF parsing
 - **Provides personalized career guidance** through RAG (Retrieval Augmented Generation)
@@ -71,7 +71,7 @@ An intelligent AI-powered career mentor that:
 
 ## 🎯 **Project Structure**
 ```
-Sahay-AI/
+career_guidance/
 ├── career_mentor_web/          # Django project
 ├── career_advisor/             # Main Django app
 ├── src/
@@ -163,6 +163,6 @@ python manage.py runserver
 
 
 
-**Sahay AI** - Your intelligent career companion powered by AI.
+**career_guidance** - Your intelligent career companion powered by AI.
 
 
